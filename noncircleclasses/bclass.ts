@@ -1,4 +1,4 @@
-import { AClass } from "../circleclasses/aclass";
+import { AClass } from "../noncircleclasses/aclass";
 
 export class BClass extends AClass {
   run() {
